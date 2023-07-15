@@ -36,7 +36,7 @@ const UserList: React.FC<UserListProps> = ({
                         text-neutral-800
                         py-4
                     ">
-                        Users
+                        People
                     </div>
                 </div>
                 {items.map((item) => (
