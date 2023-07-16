@@ -1,11 +1,11 @@
-// 'use client'
+'use client'
 
-// import useActiveChannel from "../hooks/useActiveChannel";
+import useActiveChannel from '../hooks/useActiveChannel'
 
-// function ActiveStatus() {
-//     useActiveChannel();
+function ActiveStatus() {
+    useActiveChannel()
 
-//     return null;
-// }
+    return null
+}
 
-// export default ActiveStatus
+export default ActiveStatus
